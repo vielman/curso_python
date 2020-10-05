@@ -1,0 +1,1 @@
+print("este es un mensaje del archivo init")
